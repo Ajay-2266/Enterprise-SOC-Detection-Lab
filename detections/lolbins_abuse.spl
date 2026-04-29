@@ -1,0 +1,2 @@
+index=windows sourcetype=*Sysmon* EventCode=1 (Image="*cmd.exe" OR Image="*rundll32.exe" OR Image="*mshta.exe" OR Image="*regsvr32.exe")
+| table _time host User Image CommandLine ParentImage

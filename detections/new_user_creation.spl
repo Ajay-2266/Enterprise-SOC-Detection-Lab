@@ -1,0 +1,2 @@
+index=windows sourcetype=WinEventLog:Security EventCode=4720
+| table _time host Subject_Account_Name Target_Account_Name
