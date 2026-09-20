@@ -1,4 +1,4 @@
-# Enterprise SOC Detection Lab
+# SOC Monitoring & Threat Detection Lab using Splunk & Microsoft Sentinel
 
 Real-Time Threat Monitoring & Incident Response using Splunk, Sysmon, Windows Logs, and MITRE ATT&CK.
 
